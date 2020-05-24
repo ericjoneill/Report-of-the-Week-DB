@@ -12,7 +12,7 @@ https://rotwdb.netlify.app/
 
 1. Clone the repo
 ```sh
-git clone https://github.com/ericjoneill/rotw-app.git
+git clone https://github.com/ericjoneill/Report-of-the-Week-DB.git
 ```
 3. Install NPM packages
 ```sh
