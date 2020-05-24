@@ -4,6 +4,10 @@
 
 This app serves as a way to sift through the report of the week API, where you can find here: https://github.com/andyklimczak/TheReportOfTheWeek-API
 
+## Demo
+
+https://rotwdb.netlify.app/
+
 ### Installation
 
 1. Clone the repo
