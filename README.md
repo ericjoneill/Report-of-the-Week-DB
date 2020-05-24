@@ -14,11 +14,11 @@ https://rotwdb.netlify.app/
 ```sh
 git clone https://github.com/ericjoneill/Report-of-the-Week-DB.git
 ```
-3. Install NPM packages
+2. Install NPM packages
 ```sh
 npm install
 ```
-4. Run localhost
+3. Run localhost
 ```sh
 npm run start
 ```
