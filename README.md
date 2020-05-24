@@ -1,4 +1,4 @@
-# rotw-app
+# Report of the Week DB
 
 ## About
 
